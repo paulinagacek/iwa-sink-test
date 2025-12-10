@@ -1,7 +1,7 @@
 {
   "versions": [
     {
-      "version": "0.1.0",
+      "version": "0.2.0",
       "src": "https://raw.githubusercontent.com/paulinagacek/iwa-sink-test/main/iwa-sink.swbn"
     }
   ]
